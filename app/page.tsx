@@ -406,6 +406,9 @@ export default function Home() {
             <a href="https://www.linkedin.com/in/ritacarmenortizochoa" target="_blank" rel="noreferrer">
               LinkedIn <span>↗</span>
             </a>
+            <a href="https://github.com/ritakarmen/" target="_blank" rel="noreferrer">
+              GitHub <span>↗</span>
+            </a>
             <a href="tel:+51953797513">+51 953 797 513 <span>↗</span></a>
             <a href="/cv-rita-ortiz.pdf" download>Descargar CV <span>↓</span></a>
           </div>

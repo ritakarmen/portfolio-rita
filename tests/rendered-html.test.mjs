@@ -34,6 +34,7 @@ test("renders Rita Ortiz's portfolio", async () => {
   assert.match(html, /Experiencia que conecta/);
   assert.match(html, /Tecnología con/);
   assert.match(html, /ritacarmenortiz@gmail\.com/);
+  assert.match(html, /https:\/\/github\.com\/ritakarmen\//);
   assert.doesNotMatch(html, /codex-preview|Your site is taking shape/i);
 });
 
